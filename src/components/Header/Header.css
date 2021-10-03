@@ -1,0 +1,12 @@
+.header{
+    background-color:springgreen;
+}
+.header a{
+text-decoration: none;
+color: navy;
+font-size: 20px;
+margin-right: 10px;
+font-weight: 700;
+
+
+}
